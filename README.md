@@ -1,1 +1,1 @@
-# Calculator-CLI-
+A simple calculator build in phyton
